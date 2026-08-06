@@ -1,11 +1,11 @@
 ### Hi, I'm Souvik 👋
 
-Final-year BCA student (Techno India Kolkata, MAKAUT) graduating 2027 · Java/Backend Developer · AWS & Power BI certified
+Final-year BCA student (Techno Main Salt Lake Kolkata, MAKAUT) graduating 2027 · Java/Backend Developer · AWS & Power BI certified
 
 - 🔭 Currently building an offline-first UPI payment simulator and exploring mesh-relay payment settlement
 - 💼 5-month AWS Cloud internship as Team Lead — DynamoDB, S3, Lambda, Python
 - 🌱 Sharpening backend Java (Servlets, JSP, JDBC, MySQL, Tomcat) and data analytics (SQL, Power BI)
-- 📫 Reach me at: your-email@example.com · [LinkedIn](https://linkedin.com/in/your-handle)
+- 📫 Reach me at: kundusouvik54@gmail.com · [LinkedIn](https://www.linkedin.com/in/souvikkundu19/)
 
 ---
 
