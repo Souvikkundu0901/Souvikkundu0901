@@ -25,7 +25,7 @@ Final-year BCA student (Techno Main Salt Lake Kolkata, MAKAUT) graduating 2027 Â
 
 ### GitHub stats
 
-![Souvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Souvikkundu0901&show_icons=true&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com?user=Souvikkundu0901&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Souvikkundu0901&layout=compact)
 
 ---
